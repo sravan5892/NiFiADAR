@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T09:39:44.924Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="pe0jIlP2q8h6fEDMLaSP" version="13.2.6" type="github"><diagram id="3zWc4llhSAtk2LUwR1Lj" name="Page-1">ddHBDoMgDADQr+GOsEXvzm0XTx52JtIJCVqDLLp9/TTgHHG7kPJaKCmE5+10saJXJUowhFE5EX4ijKUZm9cFnh4OPPXQWC09JRtU+gUBadCHljBEhQ7RON3HWGPXQe0iE9biGJfd0cRde9HADqpamL3etHTKa3akm19BN2rtnNCQacVaHGBQQuL4RbwgPLeIzkftlINZZrfOxZ87/8l+Hmahcz8OzMF297yJPogXbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-19T09:43:53.826Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="zi_dPT9TVnAfAqZ32Wep" version="13.2.6" type="github">
+  <diagram id="3zWc4llhSAtk2LUwR1Lj" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CQmX6qengbP0ETFAnPs_-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Management Groups -&amp;gt; Subscriptions -&amp;gt; RG -&amp;gt; Resources&amp;nbsp;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="148" width="485" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
